@@ -1,0 +1,12 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zy.config.DruidConfig",
+      "name": "spring.datasource",
+      "sourceMethod": "public javax.sql.DataSource druid() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
